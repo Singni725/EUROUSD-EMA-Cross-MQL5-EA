@@ -1,0 +1,1 @@
+# EUROUSD-EMA-Cross-MQL5-EA
